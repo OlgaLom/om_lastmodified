@@ -53,8 +53,6 @@ function generate_last_10_minutes_products_xml() {
             $xml_content .= '<url>';
             $xml_content .= '<link>' . $product_link . '</link>';
             $xml_content .= '<lastmod> '. $products_query->get_date_modified()->date('d m Y') . ' </lastmod>';
-            $xml_content .= '<changefreq> monthly </changefreq>';
-            $xml_content .= '<priority> 10 </priority>';
             $xml_content .= '</url>';
         }
     }
