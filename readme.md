@@ -1,6 +1,6 @@
 ## Custom XML Plugin for WordPress WooCommerce Products
 
-The "Last 10 Minutes Products XML" is a custom WordPress plugin designed to generate an XML file containing information about products modified within the last 10 minutes in a WooCommerce store. The plugin creates an XML sitemap with product URLs, last modification dates.
+The "Last 10 Minutes Products XML" is a custom WordPress plugin designed to generate an XML file containing information about products modified within the last 10 minutes in a WooCommerce store. The plugin creates an XML sitemap with product URLs and last modification dates.
 
 ## How to Install
 To install the "Last 10 Minutes Products XML" plugin, follow these steps:
